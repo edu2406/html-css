@@ -1,0 +1,15 @@
+Aula 27
+
+Sombras nas caixas
+
+Usando shorthands
+
+box-shadow: 1px 1px 1px black;
+Na sequência: 1px de deslocamento horizontal, 1px deslocamento vertical, 1px espalhamento, cor.
+Deslocamento horizontal: valor positivo para ir para direita e valor negativo para a esquerda.
+Deslocamento vertical: valor positivo para ir para cima e valor negativo para a baixo.
+Espalhamento: valor positivo para ficar mais espalhada e valor menor para ficar menos espalhada,
+
+Uma maneira fácil de fazer uma sombra é configurando ela no inspecionar no Chrome
+Como deixar uma sombra mais natural:
+Colocar cor black e diminuir sua transparência

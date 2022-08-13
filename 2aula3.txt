@@ -1,0 +1,17 @@
+Aula 3
+
+Representando Cores com CSS
+
+Forma 1: utilizando nome da cor em inglês
+background-color: blue; color: white;
+
+Forma 2: utilizando representação hexadecimal
+background-color: #0000ff; color: #ffffff
+
+Forma 3: utilizando código rgb
+background-color: rgb(0, 0, 255); color: rgb(255, 255, 255);
+
+Forma 4: representação por HSL
+background-color: hsl(240, 100%, 50%); color: rgb(0, 0%, 100%);
+
+

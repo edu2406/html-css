@@ -1,0 +1,19 @@
+Aula 15
+
+Fontes externas baixadas
+
+Site recomendado: dafont
+
+Depois colocar dentro da pasta do projeto
+E usar o código:
+@font-face {
+   font-family: 'Qualquer nome';
+   src: url('nomedoarquivo.otf')
+   format('opentype'),
+   url('nomedoarquivo.ttf')
+   format('truetype');
+   font-wight: normal;
+   font-style;
+}
+
+Foi usado os 2 formatos baixados para ter maior compatibilidade com outros navegadores

@@ -1,0 +1,22 @@
+Aula 28
+
+Caixas com vértices arredondados
+
+border-radius: 20px;
+Muda todas as bordas da caixa, quanto maior o valor, mais redondo será (Pode usar valor em porcentagens)
+Ou pode configurar cada borda com um valor diferente usando o shorhand
+(Tem as mesmas sequências da margin)
+border-radius: 10px 20px 30px 40px;  (Todas as bordas individualmente)
+border-radius: 20px 0px; (20px nas bordas Esquerda Superior e Direita Inferior e 0px nas restantes)
+
+Pode ser usada sombra nas bordas arredondadas (Já aparecem do mesmo formato)
+
+Fazendo uma bola usando border-radius em uma div:
+
+div#bola {
+   height: 100px;
+   width: 100px;
+   background-color: red;
+   border-radius: 50%;
+}
+

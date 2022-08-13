@@ -1,0 +1,13 @@
+Aula 38
+
+Introdução ao CSS
+
+CSS Inline
+Mudando o estilo na mesma linha de código
+style="background-color: red; font-family: Arial;"
+
+Desvantagens:
+Não separa os códigos de estilo do principal.
+Tem que mudar tudo um por um.
+Fica tudo confuso.
+

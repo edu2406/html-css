@@ -1,0 +1,20 @@
+Aula 29
+
+Bordas decoradas
+
+Nessa aula ele fez um borda personalizada no Gimp e colocou no HTML
+Exemplo:
+
+h1 {
+   border: 12px solid black;
+   padding: 10px;
+   border-image-source: url('borda.png');
+   border-image-slice: 27;
+   border-image-repeat: repeat;
+}
+
+Pode também usar shorthand:
+
+h1 {
+   border-image: url('borda.png') 27 repeat;
+}

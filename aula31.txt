@@ -1,0 +1,3 @@
+Aula 31
+Adaptação de tamanho de midias para diferentes dispositivos
+Nessa aula foi só aprendendo a mexer na resolução usando o GIMP

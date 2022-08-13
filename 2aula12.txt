@@ -1,0 +1,18 @@
+Aula 12
+
+Tamanho de fonte
+
+Medidas Absolutas:
+cm, mm, in, px, pt, pc
+
+Medidas Relativas:
+em, ex, rem, vw, vh, %
+
+Recomendado usar:
+px, em
+
+1em geralmente = 16px
+
+Exemplo:
+font-size: 16px ;
+font-size: 1em ;

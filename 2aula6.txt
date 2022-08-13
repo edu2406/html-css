@@ -1,0 +1,9 @@
+Aula 6
+
+Como capturar cores da tela
+
+Forma 1(paia):
+Tirar print da tela e ir em um editor de imagem e usar conta gotas para pegar as cores
+
+Formaf 2(mais prático):
+Usar a extensão do Chrome ColorZilla. Onde passar e clicar com o mouse pode copiar o código da cor.

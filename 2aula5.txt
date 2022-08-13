@@ -1,0 +1,7 @@
+Aula 5
+
+Sites para fazer paleta de cores:
+
+Adobe Colors: Tem muitas opções, e paletas prontas.
+Paletton: Mostra exemplos prontos usando a paleta que escolher.
+Coolors: Cria paletas aleatórias a cada vez que apertar espaço.

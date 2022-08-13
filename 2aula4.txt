@@ -1,0 +1,32 @@
+Aula 4 
+
+Harmonia de cores
+
+O círculo cromático
+Utilizado para ter a harmonia das cores
+
+
+As cores principais do círculo:
+
+Cores Primárias:
+Amarelo, Vermelho, Azul
+
+Cores Secundárias:
+Verde, Violeta, Laranja
+
+Cores Terciárias:
+Todas as outras cores que são misturas das primárias com secundárias
+
+Ao dividir no meio o círculo:
+Lado direito: Cores quentes
+Lado esquerdo: Cores fritas
+
+Cores que mais dão contraste:
+Sempre cores opostas as outras no círculo
+
+Cores análogas:
+Cores que estão ao lado
+
+Monocromia:
+Modificar saturação e brilho da cor
+Pode ser chamado de degradê

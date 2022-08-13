@@ -1,0 +1,4 @@
+Aula 27
+Links(âncora ou hiperlink)
+Transformar uma palavra ou frase em um link externo(recomendado usar: target="_blank" e rel="external" para o site principal não ser sobreposto)usando envelopamento
+<a href="link.com">link</a>

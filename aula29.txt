@@ -1,0 +1,6 @@
+Aula 29
+Como criar um link de donwload com o arquivo na mesma pasta do projeto
+Usando <a href"./arquivo.pdf" donawload="arquivo.pdf" type="application/pdf"> arquivo </a>
+ou caso nâo funcione pode usar o formato zip
+ <a href"./arquivo.zip" donawload="arquivo.zip" type="application/zip"> arquivo </a>
+

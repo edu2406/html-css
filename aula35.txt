@@ -1,0 +1,11 @@
+Aula 35
+
+Como colocar vídeos usando HTML
+Recomendado usar vídeos com resolução menor.
+Não demora para carregar.
+
+<video src="video" width="500"controls></video>
+ou
+<video width="500" controls> 
+   <source src="video" type="video/mp4">
+</video>

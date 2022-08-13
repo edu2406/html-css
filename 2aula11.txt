@@ -1,0 +1,14 @@
+Aula 11
+
+Colocar fontes usando CSS
+
+
+font-family: Arial, Helvetica, sans-serif;
+
+font-family: 'Times New Roman', Times, serif;
+
+Essas combinações são chamadas de: safe fonts combination
+Combinação de fontes seguras
+É usada para caso o navegador não recoheça a fonte principal, ele use uma semelhante
+Sempre colocando o mais genérico em ultimo caso
+

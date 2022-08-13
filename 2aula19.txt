@@ -1,0 +1,16 @@
+Aula 19
+
+Usando o id com CSS
+Para diferenciar um elementos dos outros para personalizar individualmente
+Em HTML é id
+Em CSS é #
+Ex:
+
+<h1 id="principal"> Exemplo </h1>
+
+Parte do CSS:
+
+h1#principal {
+   text-align: center;
+}
+

@@ -1,0 +1,12 @@
+Aula 32
+Como adaptar o tamanho das imagens usando HTML
+
+
+<picture>
+   <source media="(max-width: 750px)" srcset="imagem-pequena type="image/png">
+   <source media="(max-width: 1050px)" srcset="imagem-media" type="image/png">
+   <img src="imagem-grande" alt="">
+</picture>
+
+Tem que seguir a ordem ou não funciona
+As imagens se adaptam ao tamanho da tela do usuário

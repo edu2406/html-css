@@ -1,0 +1,57 @@
+Aula 23
+
+Modelo de caixas
+
+Conteúdo HTML é feito em modelo de caixas
+Caixas podem estar dentro de outras caixas(aninhamento)
+
+weight = altura
+width = largura
+border = borda (dentro do elemento)
+padding =  prenchimento (espaço interno)
+margin = margem (espaço externo)
+outline = contorno (borda fora do elemento)
+
+Tipos de caixas
+
+box-level:
+Sempre se inicia em uma linha nova
+Sempre ocupa a largura total da tela
+Pula pra próxima linha ao continuar o conteúdo
+----------------------------------------------
+inline-level:
+Continua após o conteudo
+Não tem quebra de linhas
+Não ocupa o tamanho inteiro
+---------------------------------------------
+
+Exemplos de tags box-level:
+<div>
+<h1>-<h6>
+<p>
+<main>
+<header>
+<nav>
+<article>
+<aside>
+<footer>
+<form>
+<video>
+--------------------------------------------
+Exemplos de tags inline-level:
+<span>
+<a>
+<code>
+<small>
+<strong>
+<em>
+<sup>-<sub>
+<label>
+<button>
+<input>
+<select>
+
+
+
+
+

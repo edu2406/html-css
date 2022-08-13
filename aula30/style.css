@@ -1,0 +1,18 @@
+ img{
+    border-radius: 50%;
+ }
+
+ body {
+    background: linear-gradient(#ffffff, rgb(184, 196, 252), rgb(159, 203, 253), rgb(159, 203, 253), #ffffff);
+ }
+
+.div {
+   text-align: center;
+}
+
+.myLinks {
+   display: flex;
+   flex-direction: column;
+   justify-content: start;
+   align-items: center;
+}

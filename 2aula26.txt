@@ -1,0 +1,11 @@
+Aula 26
+
+Grouping Tags
+
+Parte do site:
+Cabeçalho, conteúdo principal e rodapé
+Header, main e footer
+
+São como a <div> porém com semântica/sentido(Mais organizado)
+
+

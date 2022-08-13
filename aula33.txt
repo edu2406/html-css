@@ -1,0 +1,9 @@
+Aula 33
+
+Como colocar áudio usando HTML
+
+<audio src="audio" controls></audio>
+ou
+<audio preload="metadata" controls>
+   <source src="audio" type="audio/mpeg"
+<audio>

@@ -1,0 +1,42 @@
+Aula 10
+
+Anatomia dos tipos(letras)
+
+Letra "x" minúscula determina a altura base das outras letras minúsculas.
+Chamada "altura-x"	
+"Altura das maiúsculas" para as letras maiúsculas
+"Ascendente" para o vazamentos das letras que passam da "altura-x" como as letras: b,g,k,q
+Corpo: Todas as alturas juntas
+
+Serifa: pequeno traço nas pontas das letras.
+Ajuda o cérebro a imaginar uma linha que ajuda na leitura
+Importante para uso em papel
+
+Haste: parte geométrica da letra, um traço reto
+Filete: haste horizontal que une 2 hastes
+Presente em algumas letras como: A, e, n
+Arco: parte curva da letra
+Esporão: pontinha na letra, serve como uma base
+Vértice: ponta maior de uma letra
+Terminal: elemento que não está perso em outro lugar
+Braço: elemento que sai de uma haste e vai pra cima
+Perna: elemento que sai de uma haste e vai pra baixo
+Pé: final da perna, onde normalmente tem serifas
+Espinha: curva presente na letra "S"
+Barriga: 2 arcos juntos
+Olho: área interna fechada de todos os lados de uma letra
+Orelha: tracinho em cima da letra
+Como na letra "g"
+Cauda: parte descendente da letra
+Glifo: letras
+Fonte: conjunto de todos os glifos de uma família
+Família tipográfica: todos as formas de representar a mesma letra
+
+
+Fontes serifadas: recomendado usar em papel
+Fontes sans-serif(sem serifa): recomendado usar em telas
+Fontes monoespaçadas: todas os caracteres ocupam o mesmo espaço
+Fotes handwrinting: simulam a escrita a mão
+Fontes display: não se preocupam em obedecer as regras tipográficas
+
+

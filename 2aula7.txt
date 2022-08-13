@@ -1,0 +1,8 @@
+Aula 7
+
+Como fazer degradê usando CSS
+
+Usando:
+background-image: linear-gradient(to right, white, blue);
+Pode usar porcentagem para dizer o tanto de cada cor
+linear-gradient(to right, white 20%, blue 80%);

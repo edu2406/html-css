@@ -1,0 +1,7 @@
+Aula 26
+Como juntar listas com niveis/list dentro de outras usando "li"(lsita com letras), "ol"(lista ordenada com números) e "ul"(lista com pontinho ou quadrado)
+Colocando uma dentro da outra
+Mudar a ordem da lista usando "start="
+Lista de definição usando "dl"
+"dt"(termo) e "dd"(definicão)
+

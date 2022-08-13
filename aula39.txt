@@ -1,0 +1,23 @@
+Aula 39
+
+Criando estilos locais/internos
+
+Usando a tag:
+<style>
+   body {
+	background-color: red;
+	font-family: Arial;
+   }
+
+   h1{
+     color: darkred;
+   }
+
+</style>
+
+Desvantagens:
+Muita conteúdo antes de chegar no principal.
+Ainda não é tao prático.
+
+Vantagens:
+Fica mais organizado e é mais facil de mexer em cada coisa de maneira mais prática do que o CSS Inline.

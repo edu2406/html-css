@@ -1,0 +1,8 @@
+Aula 16
+
+Capturando fontes de outros textos
+Usando a extenção so chrome: Fonts Ninja
+
+Ele analisa todas as fontes da página
+E onde passar o mouse pode obter as informações da maneira de como está a fonte:
+Tamanho, espaçamentos, espessura e cor

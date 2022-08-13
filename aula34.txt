@@ -1,0 +1,3 @@
+Aula 34
+
+Nessa aula ele mostrou como diminuir tamanho do vídeo usando o site HandBrake

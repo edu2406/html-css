@@ -1,0 +1,17 @@
+Aula 18
+
+Alinhamento de textos com CSS
+
+
+Alinhamento na esquerda
+text-align: left;
+
+Alinhamento na direita
+text-align: right;
+
+Alinhamento nos dois lados para o texto ficar reto
+text-align: justify;
+
+Ajustar o tamanho do espaço inicial em todos os parágrafos
+text-ident: 30px;
+

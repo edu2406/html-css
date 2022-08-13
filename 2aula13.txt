@@ -1,0 +1,23 @@
+Aula 13
+
+Peso, estilo e shorthand font
+
+Peso da letra
+Determina a espessura da letra/negrito
+Usando: lighter, normal, bold ou bolder
+font-wight: normal;
+Usando: números de 100 a 900
+font-wight: 400;
+
+Estilos:
+Itálico
+font-style: italic;
+Sublinhado
+font-style: underline;
+
+Shorthand (mãozinha/atalho)
+Junta tudo em uma só linha
+Na sequência:
+font-style font-wight font-size font-family
+Usando o código:
+font: italic bolder 3em 'Work Sans', sans-serif;

@@ -1,0 +1,54 @@
+Aula 25
+
+margin: auto;
+Faz com que a margem da caixa se adapte e deixe a caixa centralizada horizontalmente
+
+outline
+Fica fora da borda
+Exemplo:
+outline-style: dashed;
+outline-color: red;
+
+Faz linhas em volta da borda
+
+Shorthands para border, padding, margin e outline
+Exemplos:
+
+border-width: 10px;
+border-style: solid;
+border-color: red;
+---------------------
+border: 10px solid red;
+---------------------
+padding(tem que seguir em sentido horário/na mesma sequência)(se tiver apenas 1 valor, ele será o mesmo valor para todos os lados) (2 valores será definido para top/bottom e right/left)
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+---------------------
+padding: 10px 10px 10px 10px;
+padding: 10px;
+padding: 10px 20px;
+---------------------
+margin(mesma regra do padding)
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+---------------------
+margin: 10px 10px 10px 10px;
+margin: 10px;
+margin: 10px 20px;
+---------------------
+outline-width: 5px;
+outline-style: dashed;
+outline-color: red;
+---------------------
+outline: 5px dashed red;
+---------------------
+
+Também pode alterar o tipo da caixa dependendo do que quer fazer
+display: inline; (não tem altura, largura)
+display: block;
+display: inline-block; (tem algumas características do block, altura, largura)
+

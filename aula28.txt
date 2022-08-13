@@ -1,0 +1,7 @@
+Aula 28
+Links internos
+Transformar uma palavra ou frase em um link interno(redireciona para outra parte do seu projeto)
+<a href="nomeDaSegundaParte.html">segunda parte</a>
+Pode ser usado também para voltar para a parte anterior
+Usar rel="previous" para indicar que é a pagina inicial
+Usar rel="next" para indicar que é a próxima página

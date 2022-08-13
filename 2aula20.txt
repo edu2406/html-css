@@ -1,0 +1,21 @@
+Aula 20
+
+As diferenças entre id e class
+
+id(só pode um elemento)
+class(pode vários elementos)
+
+class="exemplo"
+
+Para atribuir uma classe
+
+Parte do CSS
+
+.exemplo {
+   color: black;
+}
+
+Tudo que receber a mesma classe, terá as mesmas características
+Pode aplicar mais de uma classe separando com espaço
+class="exemplo exemplo2"
+

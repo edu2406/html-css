@@ -1,0 +1,13 @@
+Aula 14
+
+Fontes Externas
+Usando Google Fonts
+
+Pode pegar qualquer fonte e importar no CSS
+<style>
+@import url('linkDaFonteDesejada');
+</style>
+
+Depois colocar o nome da fonte no font family
+font-family: fonte;
+

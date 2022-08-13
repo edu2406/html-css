@@ -1,0 +1,49 @@
+Aula 22
+
+Mais exemplos de Pseudo-classes
+Personalizando links
+a:visited(Se o link já foi visitado)
+a:active(Se o link está sendo clicado/ativo)
+--------------------------------------------
+a {
+   color: red;
+   text-decoration: none;
+   font-wight: bold;
+}
+
+a:visited {
+   color: darkred;
+}
+
+a:hover {
+   color: black;
+   text-decoration: underline;
+}
+
+a:active {
+   color: yellow;
+}
+
+-------------------------------------------
+
+Pseudo-elementos
+Mexe no conteúdo do elemento
+Usa "::" para os pseudo-elementos
+Exemplo:
+Depois de todo link, ele avisa que é um link
+---------------------------------------------
+
+a::after {
+   content: ' [link]';
+   text-decoration: none;
+   font-weight: normal;
+   color: darkgray;
+}
+
+---------------------------------------------
+
+# = id
+. = class
+: = pseudo-class
+:: = pseudo-element
+> = children

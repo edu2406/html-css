@@ -1,0 +1,15 @@
+Aula 40
+
+CSS externo
+Maneira mais versátil de usar CSS
+
+Linkar o CSS externo com o index
+<link rel="stylesheet" href"style.css">
+
+@charset "UTF-8";
+Regra de compatibilidade
+
+Vantagens: Maneira mais rapida de usar o Style, poda mudar várias páginas ao mesmo tempo.
+
+Ainda pode usar os outros modos de CSS
+Misturando eles dependendo do que quer fazer.
